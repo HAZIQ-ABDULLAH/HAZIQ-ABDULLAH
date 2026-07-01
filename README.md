@@ -1,4 +1,4 @@
-# Hi 👋 I'm Haziq Abdullah
+# Hi! I'm Haziq Abdullah
 
 ### Data Scientist building intelligent systems that solve real-world problems.
 
@@ -11,7 +11,7 @@
 - Distributed Computing
 
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 ### MedGuard-AI
 Smart AI system for disease prediction and safe medicine recommendation.
